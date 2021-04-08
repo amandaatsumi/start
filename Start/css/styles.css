@@ -1,0 +1,59 @@
+body {
+  line-height: 1.5;
+  margin: 0 25px 0 25px;
+}
+
+h1 {
+  font-family: 'Rokkitt', serif;
+  font-size: 4rem;
+  padding-top: 100px;
+  position: relative;
+  text-align: center;
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+h2 {
+  color: #387c6d;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  padding-top: 25px
+}
+p {
+  padding: 25px;
+}
+h3 {
+  color: #3a6351;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  margin-top: 50px;
+}
+
+a {
+  color: #53354a;
+}
+
+.shake {
+  position: absolute;
+  bottom: 550px;
+  height: 200px;
+  width: 200px;
+}
+.layout-img {
+  float: left;
+  width: 400px;
+  margin: 30px 50px 60px;
+  height: 250px;
+}
+.basic {
+  background-color: #edffec;
+margin: 0;
+}
+.top-container {
+  background-color: #e4fbff;
+  padding-bottom: 30px;
+}
+.selectors {
+  background-color: #f7f6e7;
+  text-align: left;
+}
